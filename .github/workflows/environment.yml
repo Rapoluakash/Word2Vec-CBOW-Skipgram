@@ -1,0 +1,7 @@
+name: word2vec-nlp-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - gensim=4.3.2
